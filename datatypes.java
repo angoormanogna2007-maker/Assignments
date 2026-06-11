@@ -8,6 +8,7 @@ public class datatypes {
         double accountBalance = 1456.32;
         char gender = 'F';
         boolean isStudent = true;
+
         System.out.println(score);
         System.out.println(phonePrice);
         System.out.println(tvprice);
