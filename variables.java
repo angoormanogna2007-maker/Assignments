@@ -1,4 +1,4 @@
-public class variables {
+public class variables{
     public static void main(String[] args){
         int p = 50;
         double q = 38.9;
