@@ -11,6 +11,5 @@ public class variables3 {
         System.out.println(date);
         System.out.println(rollNumber);
     }
-    
-    ]
+
 }
