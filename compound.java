@@ -3,8 +3,8 @@ public class compound {
         int marks =70;
 
 
-        marks +=30;       // marks = 70 + 50 = 120
-        System.out.println(marks);   // 120
+        marks +=30;       // marks = 70 + 30 = 100
+        System.out.println(marks);   // 100
 
     }
 }
