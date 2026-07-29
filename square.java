@@ -8,7 +8,7 @@ public class square {
          
         int num = scan.nextInt();
         int square = num*num;
-        System.out.println("square of : " + num + " is: " + square);
+        System.out.println("square of : " + num + " is : " + square);
     }
     
 }
